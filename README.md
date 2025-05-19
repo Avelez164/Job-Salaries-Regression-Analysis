@@ -1,7 +1,5 @@
 # Job-Salaries-Regression-Analysis
 
-# AI, ML, Data Science 2020–2025 Salary Explorer
-
 An interactive Tkinter GUI for exploring and modeling global AI/ML/Data Science salaries (2020–2025), sourced via Kaggle.
 
 ---
